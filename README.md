@@ -45,6 +45,9 @@ https://www.webcomponents.org/introduction
 https://reactjs.org/docs/create-a-new-react-app.html
 https://reactjs.org/docs/thinking-in-react.html
 
+Look at the Nav from the movie review
+Props.children and Cards from Minis Challenge
+
 # BOOTSTRAP
 https://getbootstrap.com/docs/4.4/components/alerts/
 
