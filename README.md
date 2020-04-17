@@ -37,5 +37,27 @@ https://unsplash.com/s/photos/drinks-can
 https://source.unsplash.com/
 
 
+# Inspiration!
+https://www.societyliquor.co.nz/collections/gin
+
+# Useful Links to Remember!
+https://www.webcomponents.org/introduction
+https://reactjs.org/docs/create-a-new-react-app.html
+https://reactjs.org/docs/thinking-in-react.html
+
+# BOOTSTRAP
+https://getbootstrap.com/docs/4.4/components/alerts/
+
+# CODE CONVERTER
+https://magic.reactjs.net/htmltojsx.htm
+
+
+
+
+
+
+
+
+
 
 
