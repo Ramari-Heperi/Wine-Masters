@@ -1,5 +1,5 @@
 {
-  "name": "01-challenge-movie-react-app",
+  "name": "Wine-Masters",
   "version": "1.0.0",
   "private": true,
   "lint-staged": {
@@ -50,12 +50,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Developers-Institute/01-challenge-movie-react-app.git"
+    "url": "git+ssh://git@github.com/Developers-Institute/Wine-Masters.git"
   },
   "author": "Developers Institute",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Developers-Institute/01-challenge-movie-react-app/issues"
+    "url": "https://github.com/Developers-Institute/Wine-Masters/issues"
   },
   "eslintConfig": {
     "extends": [
