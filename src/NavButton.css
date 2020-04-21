@@ -1,0 +1,13 @@
+.nav-button {
+  min-width: 80px;
+  font-size: 18pt;
+  margin: 30px;
+  background-color:black;
+  border-radius: 10px;
+}
+
+.nav-button:hover {
+  background-color:pink;
+  color:pink;
+  cursor: pointer;
+}
