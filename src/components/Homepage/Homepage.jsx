@@ -1,5 +1,6 @@
 import React from 'react';
 import './Homepage.css';
+import Products from '/Data/products.json';
 
 const Homepage = () => {
   return (
