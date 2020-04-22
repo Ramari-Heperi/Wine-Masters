@@ -1,11 +1,10 @@
 /* eslint-disable */
 import React from 'react';
 import './PropsPage.css';
-import Attribution from './components/Attribution';
 import RandomImage from './components/RandomImage';
 import Title from './components/Title';
 import StyledButton from './components/StyledButton';
-import Card from './components/Card';
+import pinot-noir from './components/pinot-noir';
 import FlexLayout from './components/FlexLayout';
 
 const PropsPage = () => {
