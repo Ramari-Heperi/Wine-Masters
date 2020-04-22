@@ -1,0 +1,16 @@
+.flex-layout {
+  margin: 20px;
+  display: flex;
+}
+
+.left {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.right {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+}

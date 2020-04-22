@@ -1,0 +1,23 @@
+    .StyledButton {
+      padding:16;
+      width: 200;
+      borderRadius: 24;
+      alignItem: center;
+      backgroundColor: #f01d71;
+    }
+
+    .text {
+    color:white;
+    fontWeight: bold;
+    textTransform: uppercase;
+    fontSize: 20;
+    textAlign:center;
+  }
+
+    .card {
+        width: 320px;
+        margin: 5px;
+        padding: 5px;
+        border: 1px solid black;
+        overflow: auto;
+      }
