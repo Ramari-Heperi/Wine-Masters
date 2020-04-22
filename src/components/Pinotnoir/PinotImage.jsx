@@ -1,6 +1,6 @@
 /* eslint-disable */
 import React from 'react';
-import './PinotImagee.css';
+import './PinotImage.css';
 
 const PinotImage = (props) => {
     const { x, y } = props;

@@ -1,6 +1,6 @@
 /* eslint-disable */
 import React from 'react';
-import './Card.css';
+import './pinot-noir.css';
 import PinotImage from './PinotImage.jsx';
 
 const Card = (props) => {
@@ -16,4 +16,4 @@ const Card = (props) => {
   );
 };
 
-export default pinotNoir;
+export default Card;
