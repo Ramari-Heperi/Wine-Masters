@@ -1,19 +1,19 @@
 /* eslint-disable */
 import React from 'react';
 import './Card.css';
-import RandomImage from './RandomImage.jsx';
+import PinotImage from './PinotImage.jsx';
 
 const Card = (props) => {
-  const { cardText, cardButton } = props;
+  const { pinotNoir, cardButton } = props;
 
   return (
     <div className="card">
-      <RandomImage x={320} y={200} />
-      <p>{cardText}</p>
+      <PinotImage x={150} y={150} />
+      <p>{pinotNoir}</p>
       {cardButton}
     </div>
 
   );
 };
 
-export default Card;
+export default pinotNoir;

@@ -1,8 +1,8 @@
 /* eslint-disable */
 import React from 'react';
-import './RandomImage.css';
+import './PinotImagee.css';
 
-const RandomImage = (props) => {
+const PinotImage = (props) => {
     const { x, y } = props;
     const url = `http://source.unsplash.com/${x}x${y}/?Pakiri`;
     return (
@@ -11,6 +11,6 @@ const RandomImage = (props) => {
         </div>
     );
 };
-export default RandomImage;
+export default PinotImage;
 
 
