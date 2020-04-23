@@ -11,20 +11,20 @@
     "product ID": "V2",
     "size": "1 Case (6 bottles)",
     "description": "You can’t improve on a crisp, dry French-style rosé. Unless of course, you make it with premium NZ grapes like we do. Master of Wine Rosé, designed by rosé-loving friends, for rosé-loving friends. Salut!",
-    "type": "image/x-icon"
+    "image": "./Images/Rose.png"
   },
   {
     "name": "Sparkling Rose (2018)",
     "product ID": "V3",
     "size": "1 Case (6 bottles)",
     "description": "The ultimate match. Delicious in taste, and daring in design, this year’s vintage of Master of Wines Sparkling Rosé is most definitely making us want to say cheers to love. Salut!",
-    "type": "image/x-icon"
+    "image": "./Images/Sparkling.jpg"
   },
   {
     "name": "Rangers RTD's",
     "product ID": "V4",
     "size": "330ml 10 Pack (cans)",
     "description": "The ultimate match. Delicious in taste, and daring in design, this year’s vintage of Master of Wines Sparkling Rosé is most definitely making us want to say cheers to love. Salut!",
-    "type": "image/x-icon"
+    "image": "./Images/the4rtds.png"
   }
 ]
