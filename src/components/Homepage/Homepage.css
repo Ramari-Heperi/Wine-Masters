@@ -7,7 +7,19 @@
   align-items: center;
   justify-content: center;
 }
+.btn {
+padding: 1em;
+background-color: black;
 
+
+}
 .home-title {
   margin: 10px;
+  font-family: "neuzeit-grotesk",sans-serif;
+  color: #fff;
+  font-size: 36px;
+  line-height: 40px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  font-weight: 700;
 }
