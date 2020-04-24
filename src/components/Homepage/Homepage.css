@@ -1,6 +1,5 @@
 .homepage {
   background-color: #F8B6C4;
-  /* color: #fff; */
   flex-grow: 1;
   display: flex;
   flex-direction: column;
@@ -16,7 +15,7 @@ background-color: black;
 .p {
   padding: 1em;
   color: black;
-  font-family: "neuzeit-grotesk",sans-serif;
+  font-family: "neuzeit-grotesk",sans-serif !important;
   }
   
 .body {
@@ -25,7 +24,7 @@ background-color: black;
 
 .home-title {
   margin: 10px;
-  font-family: "neuzeit-grotesk",sans-serif;
+  font-family: "neuzeit-grotesk",sans-serif !important;
   color: #fff;
   font-size: 30px;
   line-height: 35px;

@@ -1,17 +1,22 @@
 .navbar {
   background-color: #282c34;
-  font-family: 'Roboto Slab', Georgia, 'Times New Roman', Times, serif;
-  color: #fff;
+  font-family: 'Roboto Slab', Georgia, 'Times New Roman', Times, serif; 
+  color: #fff; 
   padding: 12px;
   text-align: right;
+  color: black;
+  font-family: "neuzeit-grotesk",sans-serif !important;
 }
 
 .nav-item {
   margin: 5px 8px 5px 8px;
+  font-family: "neuzeit-grotesk",sans-serif !important;
+  font-weight: 1000;
+  font-size: 16px;
 }
 
 .nav-item:hover {
-  text-decoration: underline;
+  text-decoration: unset;
 }
 
 .nav-active {
