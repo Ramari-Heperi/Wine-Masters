@@ -3,3 +3,31 @@ what worked well?
 what didnt/what could go better?
 what have you learnt from the collab experience?
 how was the team project through lockdown?
+
+THIS IS A PARAGRAPH TO ANSWER ALL QUESTIONS:
+Ok so I was really really good at planning this project. I do value a well managed project so I was all about it. I didnt like drawing diagrams on paper
+so downloaded sketch and managed to figure out how to pop out a mock up of what I wanted and that worked out well. Its easy to see what the component structure might look like straight from sketch. Its also nice to present.
+You can get into alot of detail in sketch if used well it could totally be a map of the whole app.
+
+The setting up of the project in git was ok after I figured that out project, wiki and an issues tab.
+The hardest part of all was creating the react app template. I forgot about the create react app commands. I think I wasted a few days on this after it went wrong 3 times. 
+I was lost in all the folders moving folders around it was a mess for me that part. 
+
+I have worked on alot of group projects in the past and communication is key as well as tracking all the tasks and progress. I think being new to working from home full time might have been a 
+struggle for some. Communication over slack was a bit difficult which lead to some misunderstandings. This was a bit difficult. 
+
+However overall I have thrived working from home. The first two weeks was really difficult it has taken that long to get into a routine for me, my baby and my family to manage it allowing me to study.
+I got really behind in the work initially I was struggling to concentrate and juggle my son and I was trying to make up for it staying up until 4am but you cant do alot if your stuck and noone is online to help you so it was all in vain. 
+I chipped away at it though and managed to catch up quite a bit so by the time I started this project I felt ready.
+
+There is material I need cover again because of the two week saga. 
+
+Working from home for me is alot more productive. I think its definately something to continue with in the future. Esp when we are working on projects. 
+There will be times when going into the office will be key but I am enjoying the flexibility already. I can see me working/studying from home in the near future and going into the office a couple of days a week.
+
+Thanks
+
+
+
+
+
