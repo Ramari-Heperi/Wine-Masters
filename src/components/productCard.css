@@ -4,4 +4,6 @@
   padding: 5px;
   border: 1px solid black;
   overflow: auto;
-}
+  color: black;
+  font-family: "neuzeit-grotesk",sans-serif !important;
+  }

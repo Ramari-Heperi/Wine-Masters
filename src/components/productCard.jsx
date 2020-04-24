@@ -11,7 +11,7 @@ const productCard = (props) => {
       <ProductImage x={150} y={150} url={imageurl} />
       <p>{productCard}</p>
       {cardButton}
-    </div>
+    </div >
 
   );
 };
